@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/[Python]-[#3776AB]?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
