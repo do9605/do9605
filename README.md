@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dohee Kim's GitHub&fontSize=90&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dohee Kim's GitHub&fontSize=50&animation=blinking&reversal=true" />
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605)
