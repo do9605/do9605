@@ -5,7 +5,7 @@
 <br>
 
 ## Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white&link=https://github.com/do9605"/> <img src="https://img.shields.io/badge/Flask-000000?style=square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=MongoDB&logoColor=white"/> 
+<a href='https://github.com/do9605/'><img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=MongoDB&logoColor=white"/> 
 
 <br>
 
