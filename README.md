@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dohee Kim's GitHub&fontSize=50&animation=fadeIn&reversal=true" /> -->
 
@@ -16,4 +16,4 @@
 ### ✉️ Cowork tool
 <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/>
 
-</div>
+<!-- </div> -->
