@@ -2,9 +2,9 @@
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dohee Kim's GitHub&fontSize=50&animation=fadeIn&reversal=true" /> -->
 
-<br>
+👏 Hi there!
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605) -->
   
 <br>
 
