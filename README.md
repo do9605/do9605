@@ -7,6 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do9600)](https://solved.ac/do9600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do9605)
 <br>
 
 <!--
