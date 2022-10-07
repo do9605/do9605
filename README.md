@@ -4,13 +4,14 @@
 <!-- 
 <font size=13>👏 Hi there!</font>
 -->
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do9600)](https://solved.ac/do9600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do9605&layout=compact)
 <br>
-
+-->
 <!--
 ### 🕹 Stack
 <a href='https://github.com/do9605/'><img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=square&logo=Flask&logoColor=white"/></a> <a href='https://github.com/do9605/'><img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=MongoDB&logoColor=white"/></a> 
