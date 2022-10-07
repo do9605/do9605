@@ -8,7 +8,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do9600)](https://solved.ac/do9600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do9605)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do9605&layout=compact)
 <br>
 
 <!--
