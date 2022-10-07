@@ -5,7 +5,8 @@
 <font size=13>👏 Hi there!</font>
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do9605)
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do9600)](https://solved.ac/do9600)
 <br>
 
 <!--
